@@ -180,7 +180,10 @@ pnpm --filter backend-server build
 
 ## 📸 Screenshots
 
-_(Add mobile and admin screenshots here for better visual reference)_
+<img width="1510" height="821" alt="Screenshot 2025-07-27 at 2 26 59 PM" src="https://github.com/user-attachments/assets/a5cd4a73-5d46-4b79-8062-a836ac846099" />
+<img width="1512" height="820" alt="Screenshot 2025-07-27 at 2 27 28 PM" src="https://github.com/user-attachments/assets/f1aeada7-e6f7-4670-b555-3162a4293054" />
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-07-27 at 14 26 34" src="https://github.com/user-attachments/assets/c7fbbaf4-9367-43dc-a17a-489e42b6ad47" />
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-07-27 at 14 26 21" src="https://github.com/user-attachments/assets/ef25fb3b-8d74-4af1-a690-9065665a4398" />
 
 ---
 
