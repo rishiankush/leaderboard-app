@@ -46,7 +46,7 @@ A full-stack leaderboard platform for competitive games, built with a **PNPM mon
 
 ```bash
 git clone https://github.com/rishiankush/leaderboard-app.git
-cd leaderboard-platform
+cd leaderboard-app
 pnpm install
 ```
 
