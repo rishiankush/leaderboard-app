@@ -15,7 +15,7 @@ A full-stack leaderboard platform for competitive games, built with a **PNPM mon
 ├── apps
 │   ├── admin-dashboard    # Admin panel (Next.js + Tailwind CSS)
 │   ├── mobile             # Mobile app (Expo + React Native)
-│   └── backend-server     # Node.js server
+│   └── backend            # Node.js server
 ├── packages
 │   ├── ui                 # Shared UI components
 │   ├── types              # Shared TypeScript types
@@ -45,7 +45,7 @@ A full-stack leaderboard platform for competitive games, built with a **PNPM mon
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/your-username/leaderboard-platform.git
+git clone https://github.com/rishiankush/leaderboard-app.git
 cd leaderboard-platform
 pnpm install
 ```
